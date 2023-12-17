@@ -1,0 +1,27 @@
+<BookShelf>
+    <Book>
+        <title>Hunchback of notre-dame</title>
+        <publishedYear>2018</publishedYear>
+        <numberOfPages>500</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>The Three Musketeers</title>
+        <publishedYear>2020</publishedYear>
+        <numberOfPages>300</numberOfPages>
+        <authors>
+            <author>Emily White</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Anna Karenina</title>
+        <publishedYear>2021</publishedYear>
+        <numberOfPages>350</numberOfPages>
+        <authors>
+            <author>Mike Brown</author>
+        </authors>
+    </Book>
+</BookShelf>

@@ -1,0 +1,22 @@
+{
+  "BookShelf": [
+    {
+      "title": "JHunchback of notre-dame",
+      "publishedYear": 2018,
+      "numberOfPages": 500,
+      "authors": ["John Doe", "Jane Smith"]
+    },
+    {
+      "title": "The Three Musketeers",
+      "publishedYear": 2020,
+      "numberOfPages": 300,
+      "authors": ["Emily White"]
+    },
+    {
+      "title": "Anna Karenina",
+      "publishedYear": 2021,
+      "numberOfPages": 350,
+      "authors": ["Mike Brown"]
+    }
+  ]
+}
